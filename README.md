@@ -1,10 +1,5 @@
-# The Way To Upgrade - 程序员练级攻略
+# The Way To Upgrade
 
-> 本文大多数资料整理自左耳朵耗子在极客时间的专栏[《左耳听风》](http://gk.link/a/11Dll), 有一些链接失效了并找了新的资料来替换。
->
->食用方式：fork 到自己仓库，checkout branch progress，完成一项在前面打X即可
->
-> This is a single repo from [https://liukay.github.io/guide/](https://liukay.github.io/guide/)
 
 ## 入门
 
